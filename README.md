@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @unpacked-dev
-- ⌨️ Full stack web developer
-- 📫 contact@unpacked.dev
-
 ### Languages
 😍 Javascript <br>
 🤓 Java <br>
