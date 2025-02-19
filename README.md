@@ -2,14 +2,11 @@
 My name is Fabian, im a professional fullstack developer since 2019. <br>
 Currently I am working as a SAP (ABAP) Developer and Consultant in Baden-Württemberg (Germany)
 
-# Languages I speak
-- German (Native)
-- English (C2 - Certificate from [efset.org](https://www.efset.org/))
-- Spanish (Learning)
-
-# Languages I code in
-- ABAP
-- Javascript
-- HTML
-- CSS
-- Java
+![Static Badge](https://img.shields.io/badge/German-Native-green?style=flat-square)
+![Static Badge](https://img.shields.io/badge/English-C2-yellow?style=flat-square)
+![Static Badge](https://img.shields.io/badge/Spanish-Learning-red?style=flat-square)
+![Static Badge](https://img.shields.io/badge/JS-F7DF1E?style=flat-square)
+![Static Badge](https://img.shields.io/badge/HTML-E34F26?style=flat-square)
+![Static Badge](https://img.shields.io/badge/CSS-1572B6?style=flat-square)
+![Static Badge](https://img.shields.io/badge/ABAP-E8274B?style=flat-square)
+![Static Badge](https://img.shields.io/badge/JAVA-007396?style=flat-square)
