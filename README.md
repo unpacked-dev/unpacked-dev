@@ -1,6 +1,5 @@
-# HEY!
-My name is Fabian, im a professional fullstack developer since 2019. <br>
-Currently I am working as a SAP (ABAP) Developer and Consultant in Baden-Württemberg (Germany)
+# HEY! 👋
+I'm Fabian, a passionate Full Stack Developer based in Germany. I love building innovative web applications and solving complex problems with code. Let's unpack some amazing ideas together!
 
 ![Static Badge](https://img.shields.io/badge/German-Native-green?style=flat-square)
 ![Static Badge](https://img.shields.io/badge/English-C2-yellow?style=flat-square)
