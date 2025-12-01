@@ -9,4 +9,3 @@ I'm Fabian, a passionate Full Stack Developer based in Germany. I love building 
 ![Static Badge](https://img.shields.io/badge/CSS-1572B6?style=flat-square)
 ![Static Badge](https://img.shields.io/badge/ABAP-E8274B?style=flat-square)
 ![Static Badge](https://img.shields.io/badge/JAVA-007396?style=flat-square)
-![Coincap (Price USD)](https://img.shields.io/coincap/price-usd/bitcoin?style=flat-square&labelColor=F7931A&color=black)
